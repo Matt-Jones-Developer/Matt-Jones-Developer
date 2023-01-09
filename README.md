@@ -26,44 +26,59 @@
 
 <!-- welcome message -->
 <div id="welcome" align="center">
- <h1>Hello World! My name is Matt Jones. 
- <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="100" height="100">
- <img src="https://komarev.com/ghpvc/?username=matt-jones-developer&style=flat-square&color=blue" alt=""/></h1>
+ <h1>Hello World. "I am Developer" 
+ <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="100" height="100" alt="blob-boy-in-computer-gif">
+ <img src="https://komarev.com/ghpvc/?username=matt-jones-developer&style=flat-square&color=blue" alt="github-profile-views-ticker">
+ </h1>
 </div>
 
 <!-- animated gif -->
  
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif">
+ <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="google-animated-code-gif">
 </div>
+
+---
 
 <!-- about me  -->
 
 <h2 align="center">About Me</h2>
-- 👋 Hi, I’m Matt Jones...  I am a freelance Web Designer & Developer from the UK. I am passionate about programming, web developement, creating stylish designs and building user friendly, attractive UI's.
-<!-- spacer -->
-<div></div>
+<p align="center">
+👋 Hi, I’m Matt Jones... I am a freelance Web Designer & Developer from the UK. I am passionate about programming and web development. I love creating stylish, modern designs, building user friendly, attractive UI's and playing 80's Thrash Metal on my guitar! 👀
+</p>
 
 <!-- syntax about image -->
 <div id="about-code" align="center">
- <h3></h3>
- <img src="assets/images/syntax_intro.png" width="800" height="400">
-</div
+ <h1>Ready to build exciting stuff...
+ <img src="assets/images/syntax_intro.png" width="500" height="300">
+  </h1>
+</div>
 
- <div id="about-text" align="left">
-- 👀 I’m interested in eventually becoming a C++ software engineer, but I also really enjoying UI and web design, both front-end and back-end development.  
--     I love coding, problem solving, retro gaming and playing Thrash Metal on my guitar!
--     I am from a creative background, have good experience in music production, 2D animation, game design and vector illustration.
+---
+
+<h2 align="center">What I'm Up To</h2>
+
+<div id="about-text" align="left" padding="2rem">
  
-- 🌱 I’m currently learning ReactJS, JavaScript, advanced CSS and SCSS.  
--    I am currently enrolled in Harvard's CS50, edX's Front-End Web Developer courses.
+🌱 Currently learning ReactJS, JavaScript, advanced CSS and SASS.  My skills are improving everyday and learning never ends.
+🌱 :seedling: Enrolled in Harvard's CS50, EdX's Front-End Web Developer course and taking multiple programming classes online as a self-taught programmer.
 
-- 💞️ I’m looking for freelance opportunites to build amazing things for people, or a role within a fantastic organisation who I can design and create exciting websites and web apps with.
--     I am also interested in collaborating on projects through GitHub to help further our skills and experience, so please do get in touch.
+:revolving hearts: Interested in freelance opportunites to build amazing websites for people, or a remote role within a fantastic organisation who I can design and create exciting websites and projects with.
+:zap: I am also interested in collaborating on projects through GitHub to help further our skills and experience, so please do get in touch.
     
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matt-jones-zx81/)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/contact-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matt-jones-zx81/)
 
  </div>
+ 
+ ---
+ 
+ <h2 align="center">My Projects</h2>
+ 
+ <div id="gallery" align="center">
+ <img src="https://user-images.githubusercontent.com/116958213/211389670-19c674ef-999f-4958-8df8-46ab57dfae54.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211387719-9d5a5679-660e-41f2-ba68-34ca6cbce362.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211387406-810b82b3-73d5-4392-ab71-5534437236ce.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211387859-9f85b9cf-78be-4c34-8301-7743d6af45fc.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211388048-84c72dc3-1a9b-44d6-88b3-ea983f4352eb.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211388428-2086f7ab-2eab-4665-a332-4ecc64d9ae5a.png" width="45%"></img> 
+ </div>
+ 
+ ---
 
 [stars-shield]: https://img.shields.io/github/stars/matt-jones-developer.svg?style=for-the-badge
 [stars-url]: https://matt-jones-developer.github.io/stargazer
