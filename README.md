@@ -26,7 +26,7 @@
 
 <!-- welcome message -->
 <div id="welcome" align="center">
- <h1>Hello World. "I am Developer" 
+ <h1>Hello World. "i am developer" 
  <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="100" height="100" alt="blob-boy-in-computer-gif">
  <img src="https://komarev.com/ghpvc/?username=matt-jones-developer&style=flat-square&color=blue" alt="github-profile-views-ticker">
  </h1>
