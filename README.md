@@ -43,14 +43,27 @@
 <!-- about me  -->
 
 <h2 align="center">About Me</h2>
+<!-- syntax image /about -->
 <p align="center">
 👋 Hi, I’m Matt Jones... I am a freelance Web Designer & Developer from the UK. I am passionate about programming and web development. I love creating stylish, modern designs, building user friendly, attractive UI's and playing 80's Thrash Metal on my guitar! 👀
+ <img src="assets/images/syntax_intro.png" width="700" height="400">
 </p>
 
-<!-- syntax about image -->
+---
+
+<h2>Languages & Frameworks</h2>
+
 <div id="about-code" align="center">
- <h1>Ready to build exciting stuff...
- <img src="assets/images/syntax_intro.png" width="500" height="300">
+ <img src="https://user-images.githubusercontent.com/116958213/211398959-60d258d0-fae2-43d7-b850-7023d86a71c7.svg" width="100" alt="html-logo"></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211398994-999f884e-177a-4a4d-a087-38fb389dbe5d.svg" width="100" alt="css-logo"></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211399024-b3827a75-34c7-4425-a703-13ef5e3bc881.svg" width="100" alt="js-logo"></img>
+ <img src="https://user-images.githubusercontent.com/116958213/211399041-ea73b82f-3d90-45e3-a608-5cd0c5e3d14d.svg" width="100" alt="git-logo"**></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211399081-e1e3db2e-9613-448c-8dbb-585670deeb1d.png" width="100" alt="python-logo"></img>
+ <img src="https://user-images.githubusercontent.com/116958213/211399929-62ab26fe-d6fe-43f1-812e-4f28e23ea6f1.png" width="100" alt="vs-logo"></img>
+ <img src="https://user-images.githubusercontent.com/116958213/211401548-d16990b7-a8b0-46fa-b3d4-1f32f4704865.png" width="100" alt="react-logo"></img>
+ <img src="https://user-images.githubusercontent.com/116958213/211400330-53108be5-d7ee-47b9-8601-baec78152432.png" width="100" alt="node-logo"></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211399784-986b9c62-a71d-4561-bac3-e4c9c0009cd5.png" width="100" alt="mongo-logo"></img> 
+ 
   </h1>
 </div>
 
@@ -59,15 +72,22 @@
 <h2 align="center">What I'm Up To</h2>
 
 <div id="about-text" align="left" padding="2rem">
- 
-🌱 Currently learning ReactJS, JavaScript, advanced CSS and SASS.  My skills are improving everyday and learning never ends.
-🌱 :seedling: Enrolled in Harvard's CS50, EdX's Front-End Web Developer course and taking multiple programming classes online as a self-taught programmer.
-
-:revolving hearts: Interested in freelance opportunites to build amazing websites for people, or a remote role within a fantastic organisation who I can design and create exciting websites and projects with.
-:zap: I am also interested in collaborating on projects through GitHub to help further our skills and experience, so please do get in touch.
-    
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/contact-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matt-jones-zx81/)
-
+<ul>
+ <li>
+  🌱 Currently learning ReactJS, JavaScript, advanced CSS and SASS.  My skills are improving everyday and learning never ends.
+ </li>
+ <li>
+  💻 Enrolled in Harvard's CS50, EdX's Front-End Web Developer course and taking multiple programming classes online as a self-taught programmer.
+ </li>
+  <li>
+  💞 Interested in freelance opportunites to build amazing websites for people, or a remote role within a fantastic organisation who I can design and create exciting websites and projects with.
+ </li>
+  <li>
+  ⚡ I am also interested in collaborating on projects through GitHub to help further our skills and experience, so please do get in touch.
+ </li>
+  <li>
+  📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matt-jones-zx81/)
+ </li>
  </div>
  
  ---
