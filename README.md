@@ -57,15 +57,16 @@
 ---
 
 <div id="about-code" align="center">
- <img src="https://user-images.githubusercontent.com/116958213/211398959-60d258d0-fae2-43d7-b850-7023d86a71c7.svg" width="100" alt="html-logo"></img> 
- <img src="https://user-images.githubusercontent.com/116958213/211398994-999f884e-177a-4a4d-a087-38fb389dbe5d.svg" width="100" alt="css-logo"></img> 
- <img src="https://user-images.githubusercontent.com/116958213/211399024-b3827a75-34c7-4425-a703-13ef5e3bc881.svg" width="100" alt="js-logo"></img>
- <img src="https://user-images.githubusercontent.com/116958213/211399041-ea73b82f-3d90-45e3-a608-5cd0c5e3d14d.svg" width="100" alt="git-logo"**></img> 
- <img src="https://user-images.githubusercontent.com/116958213/211400330-53108be5-d7ee-47b9-8601-baec78152432.png" width="110" alt="react-logo"></img> 
- <img src="https://user-images.githubusercontent.com/116958213/211401548-d16990b7-a8b0-46fa-b3d4-1f32f4704865.png" width="90" alt="node-logo"></img>
- <img src="https://user-images.githubusercontent.com/116958213/211399081-e1e3db2e-9613-448c-8dbb-585670deeb1d.png" width="100" alt="python-logo"></img>
- <img src="https://user-images.githubusercontent.com/116958213/211399784-986b9c62-a71d-4561-bac3-e4c9c0009cd5.png" width="100" alt="mongo-logo"></img> 
- <img src="https://user-images.githubusercontent.com/116958213/211399929-62ab26fe-d6fe-43f1-812e-4f28e23ea6f1.png" width="100" alt="vs-logo"></img>
+ <img src="https://user-images.githubusercontent.com/116958213/211398959-60d258d0-fae2-43d7-b850-7023d86a71c7.svg" width="11%" alt="html-logo"></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211398994-999f884e-177a-4a4d-a087-38fb389dbe5d.svg" width="11%" alt="css-logo"></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211399024-b3827a75-34c7-4425-a703-13ef5e3bc881.svg" width="11%" alt="js-logo"></img>
+ <img src="https://user-images.githubusercontent.com/116958213/211425795-705c7d81-ddb0-4962-8dbc-94e33bdb2443.png" width="13%" alt="ts-logo"></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211400330-53108be5-d7ee-47b9-8601-baec78152432.png" width="11%" alt="react-logo"></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211401548-d16990b7-a8b0-46fa-b3d4-1f32f4704865.png" width="10%" alt="node-logo"></img>
+ <img src="https://user-images.githubusercontent.com/116958213/211399081-e1e3db2e-9613-448c-8dbb-585670deeb1d.png" width="11%" alt="python-logo"></img>
+ <img src="https://user-images.githubusercontent.com/116958213/211399784-986b9c62-a71d-4561-bac3-e4c9c0009cd5.png" width="12%" alt="mongo-logo"></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211399041-ea73b82f-3d90-45e3-a608-5cd0c5e3d14d.svg" width="12%" alt="git-logo"**></img> 
+ <img src="https://user-images.githubusercontent.com/116958213/211399929-62ab26fe-d6fe-43f1-812e-4f28e23ea6f1.png" width="12%" alt="vs-logo"></img>
 </div>
 
 ---
@@ -81,10 +82,10 @@
   💻 Enrolled in Harvard's CS50, EdX's Front-End Web Developer course and daily online study as a self-taught programmer.
  </li>
   <li>
-  💞 Interested in freelance opportunites to build amazing websites for people, or a remote role within a fantastic organisation who I can design and create exciting websites and projects with.
+  💞 Interested in freelance opportunites to build amazing websites for people, or a remote role within a fantastic organisation.
  </li>
   <li>
-  ⚡ I am also interested in collaborating on projects through GitHub to help further our skills and experience, so please do get in touch.
+  ⚡ I am also interested in collaborating on projects through GitHub to help further our skills and experience, so get in touch.
  </li>
   <li>
   📫 How to reach me:  
