@@ -46,10 +46,11 @@
 <!-- syntax image /about -->
 <p align="center">
 👋 Hi, I’m Matt Jones... I am a freelance Web Designer & Developer from the UK. I am passionate about programming and web development. I love creating stylish, modern designs, building user friendly, attractive UI's and playing 80's Thrash Metal on my guitar! 👀
- <img src="assets/images/syntax_intro.png" width="800" height="400">
 </p>
 
----
+<div align="center">
+<img src="assets/images/syntax_intro.png" width="800" height="400">
+</div>
 
 <h2 align="center">Languages & Frameworks</h2>
 
@@ -107,6 +108,7 @@
 [stars-url]: https://matt-jones-developer.github.io/stargazer
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/matt-jones-zx81
+
 <!---
 Matt-Jones-Developer/Matt-Jones-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
