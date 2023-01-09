@@ -96,10 +96,27 @@
  
  ---
  
- <h2 align="center">My Projects</h2>
+ <h2 align="center">My Projects (Repo Links)</h2>
  
  <div id="gallery" align="center">
- <img src="https://user-images.githubusercontent.com/116958213/211389670-19c674ef-999f-4958-8df8-46ab57dfae54.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211387719-9d5a5679-660e-41f2-ba68-34ca6cbce362.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211387406-810b82b3-73d5-4392-ab71-5534437236ce.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211387859-9f85b9cf-78be-4c34-8301-7743d6af45fc.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211388048-84c72dc3-1a9b-44d6-88b3-ea983f4352eb.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/116958213/211388428-2086f7ab-2eab-4665-a332-4ecc64d9ae5a.png" width="45%"></img> 
+ <a href="#">
+ <img src="https://user-images.githubusercontent.com/116958213/211389670-19c674ef-999f-4958-8df8-46ab57dfae54.png" width="45%"></img>
+ </a>
+ <a href="#">
+ <img src="https://user-images.githubusercontent.com/116958213/211387719-9d5a5679-660e-41f2-ba68-34ca6cbce362.png" width="45%"></img>
+ </a>
+ <a href="#">
+ <img src="https://user-images.githubusercontent.com/116958213/211387406-810b82b3-73d5-4392-ab71-5534437236ce.png" width="45%"></img>
+ </a>
+ <a href="#">
+ <img src="https://user-images.githubusercontent.com/116958213/211387859-9f85b9cf-78be-4c34-8301-7743d6af45fc.png" width="45%"></img> 
+ </a>
+ <a href="#">
+ <img src="https://user-images.githubusercontent.com/116958213/211388048-84c72dc3-1a9b-44d6-88b3-ea983f4352eb.png" width="45%"></img>
+ </a>
+ <a href="#">
+ <img src="https://user-images.githubusercontent.com/116958213/211388428-2086f7ab-2eab-4665-a332-4ecc64d9ae5a.png" width="45%"></img> 
+ </a>
  </div>
  
  ---
