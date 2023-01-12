@@ -42,7 +42,7 @@
 
 <!-- about me  -->
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me 👻</h2>
 <!-- syntax image /about -->
 <p align="center">
 👋 Hi, I’m Matt Jones. I am a freelance Web Designer & Developer from the UK. I am passionate about programming and development. I love creating stylish, modern designs, building user friendly UI's and playing 80's Thrash Metal on my guitar! 🎸
