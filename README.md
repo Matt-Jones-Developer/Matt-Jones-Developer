@@ -8,10 +8,10 @@
  <a href="https://www.linkedin.com/in/matt-jones-zx81/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
- <a href="https://matt-jones-developer.github.io/i-am-developer-bootstrap-edition/">
+ <a href="https://matt-jones-developer.github.io/i_am_glitchy_react_tailwind_portfolio/">
   <img src="https://img.shields.io/badge/top%20repos-portfolio-brightgreen?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
  </a>
- <a href="https://ukvirtfept112-wi02517.slack.com/archives/C04DMB7BK0B">
+ <a href="https://join.slack.com/t/teamcode20/shared_invite/zt-1qnn7btg7-Jdmmun1U8GVM_whdUVFZhw">
   <img src="https://img.shields.io/badge/slack-group-yellow?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge"/>
  </a>
  <a href="https://soundcloud.com/sampledat/sets/glitchys-dancehall-in-the-fine?si=ee679385a84c4479b4219273c70a548c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
@@ -45,7 +45,7 @@
 <h2 align="center">About Me 👻</h2>
 <!-- syntax image /about -->
 <p align="center">
-👋 Hi, I’m Matt Jones. I am a freelance Web Designer & Developer from the UK. I am passionate about programming and development. I love creating stylish, modern designs, building user friendly UI's and playing 80's Thrash Metal on my guitar! 🎸
+👋 Hi, I’m Matt Jones. I am a freelance Web Designer & Developer from the UK. I am passionate about programming and development. I love creating stylish, modern applications, building user friendly UI's and playing 80's Thrash Metal on my guitar! 🎸
 </p>
 
 <div align="center">
@@ -76,7 +76,7 @@
 <div id="about-text" align="left" padding="2rem">
 <ul>
  <li>
-  🌱 Currently learning ReactJS, JavaScript, advanced CSS and SASS.  My skills are improving everyday and learning never ends.
+  🌱 Currently learning advanced ReactJS, JavaScript, TypeScript and SASS.  My skills are improving everyday and learning never ends.
  </li>
  <li>
   💻 Enrolled in Harvard's CS50, EdX's Front-End Web Developer course and daily online study as a self-taught programmer.
@@ -100,10 +100,10 @@
  <h2 align="center">My Projects (Repo Links)</h2>
  
  <div id="gallery" align="center">
- <a href="#">
+ <a href="https://matt-jones-developer.github.io/i_am_glitchy_react_tailwind_portfolio/">
  <img src="https://user-images.githubusercontent.com/116958213/211389670-19c674ef-999f-4958-8df8-46ab57dfae54.png" width="45%"></img>
  </a>
- <a href="#">
+ <a href="https://matt-jones-developer.github.io/music4you_the_API_driven_music_search_engine/">
  <img src="https://user-images.githubusercontent.com/116958213/211387719-9d5a5679-660e-41f2-ba68-34ca6cbce362.png" width="45%"></img>
  </a>
  <a href="#">
