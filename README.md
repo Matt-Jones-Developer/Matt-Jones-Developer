@@ -101,21 +101,34 @@
  
  <div id="gallery" align="center">
  <a href="https://matt-jones-developer.github.io/i_am_glitchy_react_tailwind_portfolio/">
- <img src="https://user-images.githubusercontent.com/116958213/211389670-19c674ef-999f-4958-8df8-46ab57dfae54.png" width="45%"></img>
+  <img width="45%" alt="iam_glitchy_react_portfolio2023" src="https://user-images.githubusercontent.com/116958213/227785774-f3cff2b9-5d62-4323-8374-51ac4c13a4b5.png">
+ </img>
+ </a>
+  <a href="https://wi-finder.netlify.app/">
+<img width="45%" alt="wifinder_homepage" src="https://user-images.githubusercontent.com/116958213/227785874-df41bc44-722d-48e8-919e-47ef3991901c.png"></img>
  </a>
  <a href="https://matt-jones-developer.github.io/music4you_the_API_driven_music_search_engine/">
- <img src="https://user-images.githubusercontent.com/116958213/211387719-9d5a5679-660e-41f2-ba68-34ca6cbce362.png" width="45%"></img>
+ <img alt="music4you" src="https://user-images.githubusercontent.com/116958213/227785894-36926260-cbc0-4404-a371-1389fb971f0d.png" width="45%"></img>
  </a>
- <a href="#">
+ <a href="https://github.com/Matt-Jones-Developer/codeboss_engineer_dashboard">
+ <img src="https://user-images.githubusercontent.com/116958213/227785972-12748d23-181c-48f4-889c-395210e6f62c.gif" width="45%"></img> 
+ </a>
+  <a href="https://matt-jones-developer.github.io/ultimate_password_generator/">
+ <img alt="ultimate_password_gen" src="https://user-images.githubusercontent.com/116958213/227786009-3f6a832c-9db4-4857-a121-a78ece1ba4f7.png" width="45%"></img> 
+ </a>
+ <a href="https://matt-jones-developer.github.io/fine_days_weather_dashboard/">
+ <img alt="weather_app" src="https://user-images.githubusercontent.com/116958213/227786062-793cf624-e88d-4a25-9108-f6ee5350422c.png" width="45%"></img>
+ </a>
+ <a href="https://matt-jones-developer.github.io/ultimate-study-guide/">
  <img src="https://user-images.githubusercontent.com/116958213/211387406-810b82b3-73d5-4392-ab71-5534437236ce.png" width="45%"></img>
  </a>
- <a href="#">
+ <a href="https://matt-jones-developer.github.io/Gameboy-Builder/">
  <img src="https://user-images.githubusercontent.com/116958213/211387859-9f85b9cf-78be-4c34-8301-7743d6af45fc.png" width="45%"></img> 
  </a>
- <a href="#">
+ <a href="https://github.com/Matt-Jones-Developer/rock-paper-knife">
  <img src="https://user-images.githubusercontent.com/116958213/211388048-84c72dc3-1a9b-44d6-88b3-ea983f4352eb.png" width="45%"></img>
  </a>
- <a href="#">
+ <a href="https://matt-jones-developer.github.io/cristalvisionpools/">
  <img src="https://user-images.githubusercontent.com/116958213/211388428-2086f7ab-2eab-4665-a332-4ecc64d9ae5a.png" width="45%"></img> 
  </a>
  </div>
