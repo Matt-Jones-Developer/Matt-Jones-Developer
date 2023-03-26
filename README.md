@@ -131,8 +131,11 @@
  <img src="https://user-images.githubusercontent.com/116958213/211388428-2086f7ab-2eab-4665-a332-4ecc64d9ae5a.png" width="45%"></img> 
  </a>
  <a href="https://matt-jones-developer.github.io/ultimate-study-guide/">
- <img width="1728" alt="ultimate_study_guide" src="https://user-images.githubusercontent.com/116958213/227787806-e554214c-a3de-43f1-9e1b-0f4d16101f99.png">
+ <img width="1600" alt="ultimate_study_guide" src="https://user-images.githubusercontent.com/116958213/227787806-e554214c-a3de-43f1-9e1b-0f4d16101f99.png">
  </a>
+ <a href="#">
+ <img src="https://user-images.githubusercontent.com/116958213/227789110-0ce9a770-970c-4d4d-aa2c-b222520db645.gif" width="1600"></img>
+ <a/>
  </div>
  
  ---
