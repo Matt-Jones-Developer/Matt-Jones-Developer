@@ -101,8 +101,7 @@
  
  <div id="gallery" align="center">
  <a href="https://matt-jones-developer.github.io/i_am_glitchy_react_tailwind_portfolio/">
- <img width="45%" alt="iam_glitchy_portfolio_fullscreen" src="https://user-images.githubusercontent.com/116958213/227787586-464fc2f7-89de-4716-bacb-  28f472558e5d.png">
- </img>
+ <img width="45%" alt="iam_glitchy_portfolio_fullscreen" src="https://user-images.githubusercontent.com/116958213/227787586-464fc2f7-89de-4716-bacb-28f472558e5d.png"></img>
  </a>
   <a href="https://wi-finder.netlify.app/">
 <img width="45%" alt="wifinder_homepage" src="https://user-images.githubusercontent.com/116958213/227787627-1dcb7a85-8ebe-4b33-b61a-703384a88818.png">
@@ -114,10 +113,10 @@
  <img src="https://user-images.githubusercontent.com/116958213/227785972-12748d23-181c-48f4-889c-395210e6f62c.gif" width="45%"></img> 
  </a>
   <a href="https://matt-jones-developer.github.io/ultimate_password_generator/">
- <img alt="ultimate_password_gen" src="https://user-images.githubusercontent.com/116958213/227786009-3f6a832c-9db4-4857-a121-a78ece1ba4f7.png" width="45%"></img> 
+  <img alt="password_gen" src="https://user-images.githubusercontent.com/116958213/227786062-793cf624-e88d-4a25-9108-f6ee5350422c.png" width="45%"></img>
  </a>
  <a href="https://matt-jones-developer.github.io/fine_days_weather_dashboard/">
- <img alt="weather_app" src="https://user-images.githubusercontent.com/116958213/227786062-793cf624-e88d-4a25-9108-f6ee5350422c.png" width="45%"></img>
+  <img alt="weather_app" src="https://user-images.githubusercontent.com/116958213/227786009-3f6a832c-9db4-4857-a121-a78ece1ba4f7.png" width="45%"></img>
  </a>
  <a href="https://matt-jones-developer.github.io/full-metal-bio/">
  <img src="https://user-images.githubusercontent.com/116958213/211387406-810b82b3-73d5-4392-ab71-5534437236ce.png" width="45%"></img>
