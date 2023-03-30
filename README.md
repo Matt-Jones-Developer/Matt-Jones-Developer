@@ -130,10 +130,20 @@
  <a href="https://matt-jones-developer.github.io/cristalvisionpools/">
  <img src="https://user-images.githubusercontent.com/116958213/211388428-2086f7ab-2eab-4665-a332-4ecc64d9ae5a.png" width="45%"></img> 
  </a>
+ </div>
+ 
+ <br>
+ <div align="center">
+ <a href="https://wi-finder.netlify.app/">
+<img width="1600" alt="wifinder_homepage" src="https://user-images.githubusercontent.com/116958213/227787627-1dcb7a85-8ebe-4b33-b61a-703384a88818.png">
+ </a>
+ <a href="https://matt-jones-developer.github.io/i_am_glitchy_react_tailwind_portfolio/">
+ <img width="1600" alt="iam_glitchy_portfolio_fullscreen" src="https://user-images.githubusercontent.com/116958213/227787586-464fc2f7-89de-4716-bacb-28f472558e5d.png"></img>
+ </a>
  <a href="https://matt-jones-developer.github.io/ultimate-study-guide/">
  <img width="1600" alt="ultimate_study_guide" src="https://user-images.githubusercontent.com/116958213/227787806-e554214c-a3de-43f1-9e1b-0f4d16101f99.png">
  </a>
- <a href="#">
+ <a href="https://github.com/Matt-Jones-Developer/codeboss_engineer_dashboard">
  <img src="https://user-images.githubusercontent.com/116958213/227789110-0ce9a770-970c-4d4d-aa2c-b222520db645.gif" width="1600"></img>
  <a/>
  </div>
